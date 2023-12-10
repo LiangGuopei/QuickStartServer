@@ -1,7 +1,11 @@
 # QuickStartServer
 快速开服器
 
-使用[`无极镜像`](https://www.fastmirror.net/)或`官方源`进行下载
+使用[`无极镜像`](https://www.fastmirror.net/)进行下载
+
+下载请去github action下载
+
+[github仓库](https://github.com/LiangGuopei/QuickStartServer)
 
 ## 功能
 * 一键开启一个forge、fabric、vanilla、spigot系服务端
