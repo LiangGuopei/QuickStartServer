@@ -1,0 +1,39 @@
+{
+  "servers": [
+    {
+      "id": 0,
+      "name": "paper",
+      "lore": "常用的插件端",
+      "serverClass": "cn.catver.qss.server.SpigotServer",
+      "versionGetURL": "https://download.fastmirror.net/api/v3/Paper/",
+      "buildNameGetURL": "https://download.fastmirror.net/api/v3/Paper/%s",
+      "downloadURL": "https://download.fastmirror.net/download/Paper/%s/%s"
+    },
+    {
+      "id": 1,
+      "name": "spigot",
+      "lore": "paper的上游插件端",
+      "serverClass": "cn.catver.qss.server.SpigotServer",
+      "versionGetURL": "https://download.fastmirror.net/api/v3/Spigot/",
+      "buildNameGetURL": "https://download.fastmirror.net/api/v3/Spigot/%s",
+      "downloadURL": "https://download.fastmirror.net/download/Spigot/%s/%s"
+    },
+    {
+      "id": 2,
+      "name": "purpur",
+      "lore": "paper下游",
+      "serverClass": "cn.catver.qss.server.SpigotServer",
+      "versionGetURL": "https://download.fastmirror.net/api/v3/Purpur/",
+      "buildNameGetURL": "https://download.fastmirror.net/api/v3/Purpur/%s",
+      "downloadURL": "https://download.fastmirror.net/download/Purpur/%s/%s"
+    },
+    {
+      "id": 3,
+      "name": "vanilla",
+      "lore": "官方服务端（只提供最新）",
+      "serverClass": "cn.catver.qss.server.VanillaServer",
+      "buildNameGetURL": "https://download.fastmirror.net/api/v3/Vanilla/release",
+      "downloadURL": "https://download.fastmirror.net/download/Vanilla/release/%s"
+    }
+  ]
+}
