@@ -65,7 +65,7 @@ class SpigotServer : ServerClass {
             return
         }
         println("下载成功！")
-        println("启动指令：\"%s\" -jar server.jar nogui".format(Paths.get(System.getProperty("java.home"),"java").toString()))
+        println("启动指令：\"%s\" -jar workspace/server.jar nogui".format(Paths.get(System.getProperty("java.home"),"java").toString()))
 
     }
 }
