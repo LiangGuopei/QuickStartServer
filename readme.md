@@ -1,9 +1,9 @@
 # QuickStartServer
 快速开服器
 
-使用[`无极镜像`](https://www.fastmirror.net/)进行下载
+使用[`无极镜像`](https://www.fastmirror.net/)下载服务端
 
-下载请去github action下载
+下载此软件请去github action下载
 
 [github仓库](https://github.com/LiangGuopei/QuickStartServer)
 
